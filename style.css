@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background-color: #f4f4f4;
+  justify-content: center;
+    
+}
+
+form {
+  margin-bottom: 1rem;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  margin-left: 0.5rem;
+}
+
