@@ -7,7 +7,8 @@
 ### Description
 This is a minimalist JavaScript project where users can manage a list of guests for an event. It demonstrates essential front-end development skills, including DOM manipulation and event handling. The app allows you to add guest names, remove them, and toggle their RSVP status between “Attending” and “Not Attending”—all without refreshing the page.
 
-Screenshot:[![image](https://github.com/user-attachments/assets/6f4c84a2-7cae-4cd0-913e-f19604f1c58d)]
+## Screenshot:
+![image](https://github.com/user-attachments/assets/6f4c84a2-7cae-4cd0-913e-f19604f1c58d)
 
 
 ## Features
@@ -25,7 +26,8 @@ Screenshot:[![image](https://github.com/user-attachments/assets/6f4c84a2-7cae-4c
 
 ### View Live Site
 
-Visit the deployed application at: https://bett-debug.github.io/Code-challenge-2/
+Visit the deployed application [here]( https://bett-debug.github.io/Code-challenge-2/)
+
 The live site allows you to:
 
 - Browse through the list of blog posts on the home page
