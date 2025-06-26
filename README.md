@@ -8,7 +8,8 @@
 This is a minimalist JavaScript project where users can manage a list of guests for an event. It demonstrates essential front-end development skills, including DOM manipulation and event handling. The app allows you to add guest names, remove them, and toggle their RSVP status between “Attending” and “Not Attending”—all without refreshing the page.
 
 ## Screenshot:
-![image](https://github.com/user-attachments/assets/6f4c84a2-7cae-4cd0-913e-f19604f1c58d)
+![image](https://github.com/user-attachments/assets/60d71321-9602-4956-a6a3-79df9e0145ff)
+
 
 
 ## Features
