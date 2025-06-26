@@ -1,15 +1,16 @@
-###Code-challenge-2
+# Code-challenge-2
 
-##Event Guest List Manager
+## Event Guest List Manager
  A simple JavaScript project to manage event guests
  By Samuel Kiplangat
-###Description
+ 
+### Description
 This is a minimalist JavaScript project where users can manage a list of guests for an event. It demonstrates essential front-end development skills, including DOM manipulation and event handling. The app allows you to add guest names, remove them, and toggle their RSVP status between “Attending” and “Not Attending”—all without refreshing the page.
 
 Screenshot:[![image](https://github.com/user-attachments/assets/6f4c84a2-7cae-4cd0-913e-f19604f1c58d)]
 
 
-Features
+## Features
 1. Add Guests: Input a guest name and add it to the list.
 
 2. Remove Guests: Instantly remove any guest from the list.
