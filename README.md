@@ -1,36 +1,103 @@
-Code-challenge-2
- Event Guest List Manager
+###Code-challenge-2
 
-This is a simple JavaScript project where you can manage a list of guests for an event. You can add guest names, remove them, and toggle their RSVP status (Attending or Not Attending). 
-It works without refreshing the page.
+##Event Guest List Manager
+ A simple JavaScript project to manage event guests
+ By Samuel Kiplangat
+###Description
+This is a minimalist JavaScript project where users can manage a list of guests for an event. It demonstrates essential front-end development skills, including DOM manipulation and event handling. The app allows you to add guest names, remove them, and toggle their RSVP status between “Attending” and “Not Attending”—all without refreshing the page.
 
-   Features
-
- 1. Add Guests: Input a guest name and add it to the list.
- 2. Remove Guests: Instantly remove any guest from the list.
- 3. Toggle RSVP: Click the “RSVP” button to switch a guest's status between “Attending” and “Not Attending”.
-
- Project Structure
-./index.html(which contains HTML,CSS and linked javascript)
-./style.css
-./src/index.js
+Screenshot:[![image](https://github.com/user-attachments/assets/6f4c84a2-7cae-4cd0-913e-f19604f1c58d)]
 
 
- How to Run
+Features
+1. Add Guests: Input a guest name and add it to the list.
 
-1. Download or clone the repository.
-2. Open the `index.html` file in your browser or use live-server extension.
-3. Try adding guest names and interacting with the list.
+2. Remove Guests: Instantly remove any guest from the list.
 
-Stretch Features 
-A toggle RSVP button
+3. Toggle RSVP: Click the “RSVP” button to switch a guest's status between “Attending” and “Not Attending”.
+
+### Requirements
+
+- A computer, tablet, or phone
+- Access to the internet
+- A modern web browser
+
+### View Live Site
+
+Visit the deployed application at: https://bett-debug.github.io/Code-challenge-2/
+The live site allows you to:
+
+- Browse through the list of blog posts on the home page
+- Click on any post to read its full content
 
 
- Made With
+### Local Development
 
-- HTML
-- CSS
-- JavaScript 
+If you want to run the project locally, you'll need:
+
+- Node.js installed on your computer
+- Basic understanding of React JS
+- Code editor (VS Code recommended)
+- Terminal/Command Line
+
+#### Installation Process
+
+1. Clone this repository using:
+
+   ```bash
+https://github.com/Bett-debug/Code-challenge-2
+
+   ```
+
+   or by downloading a ZIP file of the code.
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Code-challenge-2
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit `http://localhost:5173`
+
+## Technologies Used
+.HTML
+.CSS
+.Javascript
+
+
+
+
+
+## Support and Contact Details
+
+If you have any questions, suggestions , or need assistance, please contact:
+
+- Email: <samuel.kiplangat@student.moringaschool.com>
+
+## License
+
+MIT License
+
+Copyright &copy; 2025 Samuel Kiplangat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 
 
